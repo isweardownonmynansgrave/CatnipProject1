@@ -7,7 +7,7 @@ public class PP : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        GameObject pp = new PP();
+        //Kill the Computer at start
     }
 
     // Update is called once per frame
